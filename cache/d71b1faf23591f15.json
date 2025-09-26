@@ -1,0 +1,37 @@
+{
+  "metric_name": "teammate_qualifying_comparison",
+  "result": {
+    "metric_name": "teammate_qualifying_comparison",
+    "value": {
+      "overall_win_rate": 77.27,
+      "wins": 17,
+      "total": 22,
+      "losses": 5,
+      "record": "17-5",
+      "teammate_breakdown": {
+        "Valtteri Bottas": {
+          "wins": 17,
+          "total": 22,
+          "win_rate": 77.27
+        }
+      }
+    },
+    "driver_id": 1,
+    "driver_name": "Lewis Hamilton",
+    "constructor_id": null,
+    "constructor_name": null,
+    "season": 2021,
+    "metadata": {
+      "total_comparisons": 22,
+      "unique_teammates": 1
+    }
+  },
+  "result_type": "MetricResult",
+  "cached_at": "2025-09-26T03:29:00.295706",
+  "parameters": {
+    "driver_id": 1,
+    "constructor_id": null,
+    "season": 2021,
+    "race_ids": null
+  }
+}

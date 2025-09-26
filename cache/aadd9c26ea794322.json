@@ -1,0 +1,26 @@
+{
+  "metric_name": "points_per_race",
+  "result": {
+    "metric_name": "points_per_race",
+    "value": 18.15,
+    "driver_id": 1,
+    "driver_name": "Lewis Hamilton",
+    "constructor_id": null,
+    "constructor_name": null,
+    "season": 2017,
+    "metadata": {
+      "total_races": 20,
+      "total_points": 363.0,
+      "points_scoring_races": 20,
+      "best_points_haul": 25.0
+    }
+  },
+  "result_type": "MetricResult",
+  "cached_at": "2025-09-26T03:26:45.976417",
+  "parameters": {
+    "driver_id": 1,
+    "constructor_id": null,
+    "season": 2017,
+    "race_ids": null
+  }
+}

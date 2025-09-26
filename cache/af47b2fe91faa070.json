@@ -1,0 +1,26 @@
+{
+  "metric_name": "qualifying_position_average",
+  "result": {
+    "metric_name": "qualifying_position_average",
+    "value": 21.05,
+    "driver_id": 820,
+    "driver_name": "Max Chilton",
+    "constructor_id": null,
+    "constructor_name": null,
+    "season": 2013,
+    "metadata": {
+      "total_qualifyings": 19,
+      "valid_positions": 19,
+      "best_position": 16,
+      "worst_position": 22
+    }
+  },
+  "result_type": "MetricResult",
+  "cached_at": "2025-09-25T22:47:34.197571",
+  "parameters": {
+    "driver_id": 820,
+    "constructor_id": null,
+    "season": 2013,
+    "race_ids": null
+  }
+}

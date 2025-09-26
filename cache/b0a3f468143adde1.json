@@ -1,0 +1,27 @@
+{
+  "metric_name": "average_finish_position",
+  "result": {
+    "metric_name": "average_finish_position",
+    "value": 2.7,
+    "driver_id": 1,
+    "driver_name": "Lewis Hamilton",
+    "constructor_id": null,
+    "constructor_name": null,
+    "season": 2017,
+    "metadata": {
+      "total_races": 20,
+      "finished_races": 20,
+      "dnf_count": 0,
+      "best_finish": 1,
+      "worst_finish": 9
+    }
+  },
+  "result_type": "MetricResult",
+  "cached_at": "2025-09-26T03:26:45.974066",
+  "parameters": {
+    "driver_id": 1,
+    "constructor_id": null,
+    "season": 2017,
+    "race_ids": null
+  }
+}

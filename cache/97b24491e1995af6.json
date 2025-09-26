@@ -1,0 +1,28 @@
+{
+  "metric_name": "podium_rate",
+  "result": {
+    "metric_name": "podium_rate",
+    "value": 81.82,
+    "driver_id": 830,
+    "driver_name": "Max Verstappen",
+    "constructor_id": null,
+    "constructor_name": null,
+    "season": 2021,
+    "metadata": {
+      "total_races": 22,
+      "podium_count": 18,
+      "wins": 10,
+      "second_places": 8,
+      "third_places": 0,
+      "win_rate": 45.45
+    }
+  },
+  "result_type": "MetricResult",
+  "cached_at": "2025-09-26T03:28:34.430810",
+  "parameters": {
+    "driver_id": 830,
+    "constructor_id": null,
+    "season": 2021,
+    "race_ids": null
+  }
+}

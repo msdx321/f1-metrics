@@ -1,0 +1,26 @@
+{
+  "metric_name": "points_per_race",
+  "result": {
+    "metric_name": "points_per_race",
+    "value": 17.52,
+    "driver_id": 1,
+    "driver_name": "Lewis Hamilton",
+    "constructor_id": null,
+    "constructor_name": null,
+    "season": 2021,
+    "metadata": {
+      "total_races": 22,
+      "total_points": 385.5,
+      "points_scoring_races": 20,
+      "best_points_haul": 26.0
+    }
+  },
+  "result_type": "MetricResult",
+  "cached_at": "2025-09-26T03:28:34.439397",
+  "parameters": {
+    "driver_id": 1,
+    "constructor_id": null,
+    "season": 2021,
+    "race_ids": null
+  }
+}

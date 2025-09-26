@@ -1,0 +1,25 @@
+{
+  "metric_name": "pole_position_rate",
+  "result": {
+    "metric_name": "pole_position_rate",
+    "value": 59.09,
+    "driver_id": 830,
+    "driver_name": "Max Verstappen",
+    "constructor_id": null,
+    "constructor_name": null,
+    "season": 2023,
+    "metadata": {
+      "total_qualifyings": 22,
+      "pole_positions": 13,
+      "pole_count": 13
+    }
+  },
+  "result_type": "MetricResult",
+  "cached_at": "2025-09-26T03:09:36.068612",
+  "parameters": {
+    "driver_id": 830,
+    "constructor_id": null,
+    "season": 2023,
+    "race_ids": null
+  }
+}

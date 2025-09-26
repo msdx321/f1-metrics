@@ -1,0 +1,28 @@
+{
+  "metric_name": "podium_rate",
+  "result": {
+    "metric_name": "podium_rate",
+    "value": 27.27,
+    "driver_id": 1,
+    "driver_name": "Lewis Hamilton",
+    "constructor_id": null,
+    "constructor_name": null,
+    "season": 2023,
+    "metadata": {
+      "total_races": 22,
+      "podium_count": 6,
+      "wins": 0,
+      "second_places": 3,
+      "third_places": 3,
+      "win_rate": 0.0
+    }
+  },
+  "result_type": "MetricResult",
+  "cached_at": "2025-09-25T22:44:24.992597",
+  "parameters": {
+    "driver_id": 1,
+    "constructor_id": null,
+    "season": 2023,
+    "race_ids": null
+  }
+}

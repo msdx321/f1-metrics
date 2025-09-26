@@ -1,0 +1,27 @@
+{
+  "metric_name": "average_finish_position",
+  "result": {
+    "metric_name": "average_finish_position",
+    "value": 6.18,
+    "driver_id": 1,
+    "driver_name": "Lewis Hamilton",
+    "constructor_id": null,
+    "constructor_name": null,
+    "season": 2023,
+    "metadata": {
+      "total_races": 22,
+      "finished_races": 22,
+      "dnf_count": 0,
+      "best_finish": 2,
+      "worst_finish": 19
+    }
+  },
+  "result_type": "MetricResult",
+  "cached_at": "2025-09-25T22:44:24.975408",
+  "parameters": {
+    "driver_id": 1,
+    "constructor_id": null,
+    "season": 2023,
+    "race_ids": null
+  }
+}

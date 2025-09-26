@@ -1,0 +1,21 @@
+[global]
+# Development mode
+developmentMode = false
+
+[server]
+# Server configuration
+headless = true
+enableCORS = false
+port = 8501
+
+[theme]
+# Theme configuration
+primaryColor = "#FF6600"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F0F2F6"
+textColor = "#262730"
+font = "sans serif"
+
+[browser]
+# Browser configuration
+gatherUsageStats = false

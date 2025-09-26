@@ -1,0 +1,23 @@
+{
+  "metric_name": "podium_rate",
+  "result": {
+    "metric_name": "podium_rate",
+    "value": null,
+    "driver_id": 1,
+    "driver_name": null,
+    "constructor_id": null,
+    "constructor_name": null,
+    "season": 2010,
+    "metadata": {
+      "message": "No race results found"
+    }
+  },
+  "result_type": "MetricResult",
+  "cached_at": "2025-09-25T21:50:26.564879",
+  "parameters": {
+    "driver_id": 1,
+    "constructor_id": null,
+    "season": 2010,
+    "race_ids": null
+  }
+}

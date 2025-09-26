@@ -1,0 +1,25 @@
+{
+  "metric_name": "pole_position_rate",
+  "result": {
+    "metric_name": "pole_position_rate",
+    "value": 55.0,
+    "driver_id": 1,
+    "driver_name": "Lewis Hamilton",
+    "constructor_id": null,
+    "constructor_name": null,
+    "season": 2017,
+    "metadata": {
+      "total_qualifyings": 20,
+      "pole_positions": 11,
+      "pole_count": 11
+    }
+  },
+  "result_type": "MetricResult",
+  "cached_at": "2025-09-26T03:26:45.977965",
+  "parameters": {
+    "driver_id": 1,
+    "constructor_id": null,
+    "season": 2017,
+    "race_ids": null
+  }
+}

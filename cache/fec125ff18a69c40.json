@@ -1,0 +1,52 @@
+{
+  "metric_name": "teammate_qualifying_comparison",
+  "result": {
+    "metric_name": "teammate_qualifying_comparison",
+    "value": {
+      "overall_win_rate": 60.0,
+      "wins": 171,
+      "total": 285,
+      "losses": 114,
+      "record": "171-114",
+      "teammate_breakdown": {
+        "Jenson Button": {
+          "wins": 30,
+          "total": 39,
+          "win_rate": 76.92
+        },
+        "Nico Rosberg": {
+          "wins": 42,
+          "total": 78,
+          "win_rate": 53.85
+        },
+        "Valtteri Bottas": {
+          "wins": 70,
+          "total": 100,
+          "win_rate": 70.0
+        },
+        "George Russell": {
+          "wins": 29,
+          "total": 68,
+          "win_rate": 42.65
+        }
+      }
+    },
+    "driver_id": 1,
+    "driver_name": "Lewis Hamilton",
+    "constructor_id": null,
+    "constructor_name": null,
+    "season": null,
+    "metadata": {
+      "total_comparisons": 285,
+      "unique_teammates": 4
+    }
+  },
+  "result_type": "MetricResult",
+  "cached_at": "2025-09-26T03:26:28.924759",
+  "parameters": {
+    "driver_id": 1,
+    "constructor_id": null,
+    "season": null,
+    "race_ids": null
+  }
+}
